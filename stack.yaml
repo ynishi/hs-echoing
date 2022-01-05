@@ -1,0 +1,5 @@
+#
+# project setting: thanks to https://qiita.com/amderbar/items/1f1c646aebfd12a1b895
+#
+resolver: lts-18.18
+packages: []
